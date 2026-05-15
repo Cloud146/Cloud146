@@ -31,7 +31,6 @@
   <a href="#"><img title="Cucumber" alt="Cucumber" src="" width="60" height="60"></a>
   <a href="#"><img title="Allure" alt="Allure" src="" width="60" height="60"></a>
   <a href="#"><img title="WireMock" alt="WireMock" src="" width="60" height="60"></a>
-  
 </p>
 
 <p align="left">
@@ -44,15 +43,31 @@
 </p>
 
 <p align="left">
-  <strong>Тестовая документация</strong><br>
-  <a href="#"><img title="Test It" alt="Test It" src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="60" height="60"></a>
-  <a href="#"><img title="Сonfluence" alt="Сonfluence" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/confluence-auto.svg" width="60" height="60"></a>
-</p>
-
-<p align="left">
   <strong>Работа с базами данных:</strong><br>
   <a href="#"><img title="DBeaver" alt="DBeaver" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/dbeaver-auto.svg" width="60" height="60"></a>
   <a href="#"><img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postgresql-auto.svg" width="60" height="60"></a>
+</p>
+
+<p align="left">
+  <strong>Инструменты QA:</strong><br>
+  <a href="#"><img title="Chrome DevTools" alt="Chrome DevTools" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/chromedevtools.svg" width="60" height="60"></a>
+  <a href="#"><img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="60" height="60"></a>
+  <a href="#"><img title="Swagger" alt="Swagger" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/swagger-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="DBeaver" alt="DBeaver" src="" width="60" height="60"></a>
+</p>
+
+<p align="left">
+  <strong>Логи и мониторинги:</strong><br>
+  <a href="#"><img title="Kibana" alt="Kibana" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/kibana-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="Sentry" alt="Sentry" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width="60" height="60"></a>
+</p>
+
+<p align="left">
+  <strong>Тестовая документация</strong><br>
+  <a href="#"><img title="Test It" alt="Test It" src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="60" height="60"></a>
+  <a href="#"><img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/jira-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="GitBook" alt="GitBook" src="" width="60" height="60"></a>
+  <a href="#"><img title="Сonfluence" alt="Сonfluence" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/confluence-auto.svg" width="60" height="60"></a>
 </p>
 
 ---
