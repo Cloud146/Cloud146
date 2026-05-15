@@ -16,16 +16,19 @@
 
 <p align="left">
   <strong>Языки:</strong><br>
-  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" title="Java" alt="Java" width="60" height="60"></a>
+  <a href="#"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Автоматизация тестирования (UI/API):</strong><br>
   <a href="#"><img title="Selenium" alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Selenium.svg" width="60" height="60"></a>
-  <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"></a>
-  <a href="#"><img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23BE23?style=for-the-badge&logo=cucumber&logoColor=white"></a>
-  <a href="#"><img alt="Rest-Assured" src="https.img.shields.io/badge/REST--assured-6B57FF?style=for-the-badge"></a>
-  <a href="#"><img alt="WireMock" src="https://img.shields.io/badge/WireMock-2B2B2B?style=for-the-badge&logo=wiremock&logoColor=white"></a>
+  <a href="#"><img title="Playwright" alt="Playwright" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/playwright-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="RestAssured" alt="RestAssured" src="" width="60" height="60"></a>
+  <a href="#"><img title="TestNG" alt="TestNG" src="" width="60" height="60"></a>
+  <a href="#"><img title="JUnit5" alt="JUnit5" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/junit-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="Cucumber" alt="Cucumber" src="" width="60" height="60"></a>
+  <a href="#"><img title="Allure" alt="Allure" src="" width="60" height="60"></a>
+  <a href="#"><img title="WireMock" alt="WireMock" src="" width="60" height="60"></a>
   
 </p>
 
@@ -35,7 +38,7 @@
   <a href="#"><img alt="GitHub Actions" src="https.img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
   <a href="#"><img alt="Jenkins" src="https.img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
   <a href="#"><img alt="GitLab CI" src="https.img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="#"><img alt="Allure" src="https.img.shields.io/badge/Allure_Report-D3592A?style=for-the-badge&logo=Allure&logoColor=white"></a>
+  <a href="#"><img title="Allure" alt="Allure" src="https.img.shields.io/badge/Allure_Report-D3592A?style=for-the-badge&logo=Allure&logoColor=white" width="60" height="60"></a>
 </p>
 
 <p align="left">
