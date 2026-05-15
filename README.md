@@ -18,6 +18,7 @@
   <strong>Языки:</strong><br>
   <a href="#"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
   <a href="#"><img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/idea-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="Maven" alt="Maven" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/maven-auto.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
@@ -43,7 +44,13 @@
 </p>
 
 <p align="left">
-  <strong>Фреймворки и БД:</strong><br>
+  <strong>Тестовая документация</strong><br>
+  <a href="#"><img title="Test It" alt="Test It" src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="60" height="60"></a>
+  <a href="#"><img title="Сonfluence" alt="Сonfluence" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/confluence-auto.svg" width="60" height="60"></a>
+</p>
+
+<p align="left">
+  <strong>Работа с базами данных:</strong><br>
   <a href="#"><img title="DBeaver" alt="DBeaver" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/dbeaver-auto.svg" width="60" height="60"></a>
   <a href="#"><img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postgresql-auto.svg" width="60" height="60"></a>
 </p>
