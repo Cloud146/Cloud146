@@ -1,7 +1,7 @@
 <h1 align="center">Меня зовут Александр</h1>
 <h3 align="center">Senior AQA Engineer / SDET с опытом 3+ лет в автоматизации тестирования и построении CI/CD процессов.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ВАШ_НИКНЕЙМ&label=Profile%20views&color=0e75b6&style=flat" alt="ВАШ_НИКНЕЙМ" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Cloud146&label=Profile%20views&color=0e75b6&style=flat" alt="Cloud146" /> </p>
 
 ---
 
@@ -98,6 +98,6 @@
 ## 📊 Моя статистика на GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cloud146&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud146&layout=compact&langs_count=8&theme=dracula"/>
 </p>
