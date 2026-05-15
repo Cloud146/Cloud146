@@ -60,6 +60,8 @@
   <a href="#"><img title="Chrome DevTools" alt="Chrome DevTools" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/chromedevtools.svg" width="60" height="60"></a>
   <a href="#"><img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="60" height="60"></a>
   <a href="#"><img title="Swagger" alt="Swagger" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/swagger-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="Charles Proxy" alt="Charles Proxy" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="60" height="60"></a>
+  <a href="#"><img title="SOAP" alt="SOAP" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" width="60" height="60"></a>
 </p>
 
 <p align="left">
