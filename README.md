@@ -9,7 +9,6 @@
 
 - 🌱 Сейчас я углубляю свои знания в **[укажите технологию, которую сейчас изучаете, например, Kubernetes, Performance Testing с k6, или дорабатываю свой фреймворк]**.
 
-- 💬 Задайте мне вопрос о **Playwright, CI/CD на GitHub Actions, или о паттернах проектирования в тестах**.
 
 ---
 
@@ -17,9 +16,7 @@
 
 <p align="left">
   <strong>Языки:</strong><br>
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https.img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="Java" src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg)"></a>
 </p>
 
 <p align="left">
@@ -49,8 +46,6 @@
 ---
 
 ## 🚀 Мои проекты-визитки
-
-Здесь мы представим ваши проекты в лучшем свете. Вместо "тренировался", мы скажем "демонстрировал".
 
 <table>
 <tr>
@@ -100,4 +95,5 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cloud146&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud146&layout=compact&langs_count=8&theme=dracula"/>
+  <img src="https://github.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
