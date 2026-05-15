@@ -21,11 +21,12 @@
 
 <p align="left">
   <strong>Автоматизация тестирования (UI/API):</strong><br>
+  <a href="#"><img title="Selenium" alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Selenium.svg" width="60" height="60"></a>
   <a href="#"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"></a>
   <a href="#"><img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-23BE23?style=for-the-badge&logo=cucumber&logoColor=white"></a>
   <a href="#"><img alt="Rest-Assured" src="https.img.shields.io/badge/REST--assured-6B57FF?style=for-the-badge"></a>
   <a href="#"><img alt="WireMock" src="https://img.shields.io/badge/WireMock-2B2B2B?style=for-the-badge&logo=wiremock&logoColor=white"></a>
-  <a href="#"><img alt="Selenium" src="https.img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a>
+  
 </p>
 
 <p align="left">
