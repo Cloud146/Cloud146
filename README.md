@@ -26,7 +26,7 @@
   <strong>Автоматизация тестирования (UI/API):</strong><br>
   <a href="#"><img title="Selenium" alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Selenium.svg" width="60" height="60"></a>
   <a href="#"><img title="Playwright" alt="Playwright" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/playwright-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="RestAssured" alt="RestAssured" src="" width="60" height="60"></a>
+  <a href="#"><img title="RestAssured" alt="RestAssured" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/RestAssured.png" width="60" height="60"></a>
   <a href="#"><img title="TestNG" alt="TestNG" src="" width="60" height="60"></a>
   <a href="#"><img title="JUnit5" alt="JUnit5" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/junit-auto.svg" width="60" height="60"></a>
   <a href="#"><img title="Cucumber" alt="Cucumber" src="" width="60" height="60"></a>
