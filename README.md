@@ -19,6 +19,7 @@
   <a href="#"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
   <a href="#"><img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/idea-auto.svg" width="60" height="60"></a>
   <a href="#"><img title="Maven" alt="Maven" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/maven-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/git-auto.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
@@ -31,6 +32,12 @@
   <a href="#"><img title="Cucumber" alt="Cucumber" src="" width="60" height="60"></a>
   <a href="#"><img title="Allure" alt="Allure" src="" width="60" height="60"></a>
   <a href="#"><img title="WireMock" alt="WireMock" src="" width="60" height="60"></a>
+</p>
+
+<p align="left">
+  <strong>Автотестирование мобильных приложений</strong><br>
+  <a href="#"><img title="Appium" alt="Appium" src="" width="60" height="60"></a>
+  <a href="#"><img title="Android Studio" alt="Android Studio" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/androidstudio-auto.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
@@ -53,7 +60,6 @@
   <a href="#"><img title="Chrome DevTools" alt="Chrome DevTools" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/chromedevtools.svg" width="60" height="60"></a>
   <a href="#"><img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="60" height="60"></a>
   <a href="#"><img title="Swagger" alt="Swagger" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/swagger-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="DBeaver" alt="DBeaver" src="" width="60" height="60"></a>
 </p>
 
 <p align="left">
