@@ -17,6 +17,7 @@
 <p align="left">
   <strong>Языки:</strong><br>
   <a href="#"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
+  <a href="#"><img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/idea-auto.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
@@ -34,17 +35,17 @@
 
 <p align="left">
   <strong>CI/CD, DevOps и Инструменты:</strong><br>
-  <a href="#"><img alt="Docker" src="https.img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Actions" src="https.img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
-  <a href="#"><img alt="Jenkins" src="https.img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-  <a href="#"><img alt="GitLab CI" src="https.img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="#"><img title="Allure" alt="Allure" src="https.img.shields.io/badge/Allure_Report-D3592A?style=for-the-badge&logo=Allure&logoColor=white" width="60" height="60"></a>
+  <a href="#"><img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" width="60" height="60"></a>
+  <a href="#"><img title="GitHub Actions" alt="GitHub Actions" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg" width="60" height="60"></a>
+  <a href="#"><img title="GitLab CI" alt="GitLab CI" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GitLab-Dark.svg" width="60" height="60"></a>
+  <a href="#"><img title="Jenkins" alt="Jenkins" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Jenkins-Dark.svg" width="60" height="60"></a>
+  <a href="#"><img title="Allure" alt="Allure" src="" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Фреймворки и БД:</strong><br>
-  <a href="#"><img alt="Spring" src="https.img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https.img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+  <a href="#"><img title="DBeaver" alt="DBeaver" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/dbeaver-auto.svg" width="60" height="60"></a>
+  <a href="#"><img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postgresql-auto.svg" width="60" height="60"></a>
 </p>
 
 ---
