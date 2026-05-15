@@ -16,7 +16,7 @@
 
 <p align="left">
   <strong>Языки:</strong><br>
-  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg"> title="Java" alt="Java" width="40" height="40"</a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"></a>
 </p>
 
 <p align="left">
