@@ -17,64 +17,64 @@
 <p align="left">
   <strong>Языки:</strong><br>
   <a href="https://www.java.com/"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
-  <a href="#"><img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/idea-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="Maven" alt="Maven" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/maven-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/git-auto.svg" width="60" height="60"></a>
+  <a href="https://www.jetbrains.com/idea/"><img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/idea-auto.svg" width="60" height="60"></a>
+  <a href="https://maven.apache.org/"><img title="Maven" alt="Maven" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/maven-auto.svg" width="60" height="60"></a>
+  <a href="https://git-scm.com/"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/git-auto.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Автоматизация тестирования (UI/API):</strong><br>
-  <a href="#"><img title="Selenium" alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Selenium.svg" width="60" height="60"></a>
-  <a href="#"><img title="Playwright" alt="Playwright" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/playwright-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="RestAssured" alt="RestAssured" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/RestAssured.png" width="60" height="60"></a>
-  <a href="#"><img title="TestNG" alt="TestNG" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/TestNG.png" width="60" height="60"></a>
-  <a href="#"><img title="JUnit5" alt="JUnit5" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/junit-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="Cucumber" alt="Cucumber" src="https://raw.githubusercontent.com/Cloud146/Cloud146/a5207eaeb8577db5f605215ae4cd1ebdcf06f721/Icons/Cucumber.svg" width="60" height="60"></a>
-  <a href="#"><img title="Allure" alt="Allure" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/Allure.png" width="60" height="60"></a>
-  <a href="#"><img title="WireMock" alt="WireMock" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/WireMock.png" width="60" height="60"></a>
+  <a href="https://www.selenium.dev/"><img title="Selenium" alt="Selenium" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Selenium.svg" width="60" height="60"></a>
+  <a href="https://playwright.dev/"><img title="Playwright" alt="Playwright" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/playwright-auto.svg" width="60" height="60"></a>
+  <a href="https://rest-assured.io/"><img title="RestAssured" alt="RestAssured" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/RestAssured.png" width="60" height="60"></a>
+  <a href="https://testng.org/"><img title="TestNG" alt="TestNG" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/TestNG.png" width="60" height="60"></a>
+  <a href="https://junit.org/"><img title="JUnit5" alt="JUnit5" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/junit-auto.svg" width="60" height="60"></a>
+  <a href="https://cucumber.io/docs/"><img title="Cucumber" alt="Cucumber" src="https://raw.githubusercontent.com/Cloud146/Cloud146/a5207eaeb8577db5f605215ae4cd1ebdcf06f721/Icons/Cucumber.svg" width="60" height="60"></a>
+  <a href="https://allurereport.org/"><img title="Allure" alt="Allure" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/Allure.png" width="60" height="60"></a>
+  <a href="[#](https://wiremock.org/)"><img title="WireMock" alt="WireMock" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/WireMock.png" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Автотестирование мобильных приложений</strong><br>
-  <a href="#"><img title="Appium" alt="Appium" src="https://raw.githubusercontent.com/Cloud146/Cloud146/a5207eaeb8577db5f605215ae4cd1ebdcf06f721/Icons/Appium.svg" width="60" height="60"></a>
-  <a href="#"><img title="Android Studio" alt="Android Studio" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/androidstudio-auto.svg" width="60" height="60"></a>
+  <a href="http://appium.io/"><img title="Appium" alt="Appium" src="https://raw.githubusercontent.com/Cloud146/Cloud146/a5207eaeb8577db5f605215ae4cd1ebdcf06f721/Icons/Appium.svg" width="60" height="60"></a>
+  <a href="https://developer.android.com/studio"><img title="Android Studio" alt="Android Studio" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/androidstudio-auto.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>CI/CD, DevOps и Инструменты:</strong><br>
-  <a href="#"><img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" width="60" height="60"></a>
-  <a href="#"><img title="GitHub Actions" alt="GitHub Actions" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg" width="60" height="60"></a>
-  <a href="#"><img title="GitLab CI" alt="GitLab CI" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GitLab-Dark.svg" width="60" height="60"></a>
-  <a href="#"><img title="Jenkins" alt="Jenkins" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Jenkins-Dark.svg" width="60" height="60"></a>
+  <a href="https://www.docker.com/"><img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" width="60" height="60"></a>
+  <a href="https://github.com/features/actions"><img title="GitHub Actions" alt="GitHub Actions" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg" width="60" height="60"></a>
+  <a href="https://docs.gitlab.com/ci/"><img title="GitLab CI" alt="GitLab CI" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GitLab-Dark.svg" width="60" height="60"></a>
+  <a href="https://www.jenkins.io/"><img title="Jenkins" alt="Jenkins" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Jenkins-Dark.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Работа с базами данных:</strong><br>
-  <a href="#"><img title="DBeaver" alt="DBeaver" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/dbeaver-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postgresql-auto.svg" width="60" height="60"></a>
+  <a href="https://dbeaver.io/"><img title="DBeaver" alt="DBeaver" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/dbeaver-auto.svg" width="60" height="60"></a>
+  <a href="https://www.postgresql.org/"><img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postgresql-auto.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Инструменты QA:</strong><br>
-  <a href="#"><img title="Chrome DevTools" alt="Chrome DevTools" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/chromedevtools.svg" width="60" height="60"></a>
-  <a href="#"><img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="60" height="60"></a>
-  <a href="#"><img title="Swagger" alt="Swagger" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/swagger-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="Charles Proxy" alt="Charles Proxy" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/Charles%20Proxy.png" width="60" height="60"></a>
+  <a href="https://developer.chrome.com/docs/devtools"><img title="Chrome DevTools" alt="Chrome DevTools" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/chromedevtools.svg" width="60" height="60"></a>
+  <a href="https://www.postman.com/"><img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="60" height="60"></a>
+  <a href="https://swagger.io/"><img title="Swagger" alt="Swagger" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/swagger-auto.svg" width="60" height="60"></a>
+  <a href="https://www.charlesproxy.com/"><img title="Charles Proxy" alt="Charles Proxy" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/Charles%20Proxy.png" width="60" height="60"></a>
   <a href="#"><img title="SOAP" alt="SOAP" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Логи и мониторинги:</strong><br>
-  <a href="#"><img title="Kibana" alt="Kibana" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/kibana-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="Sentry" alt="Sentry" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width="60" height="60"></a>
+  <a href="https://www.elastic.co/kibana"><img title="Kibana" alt="Kibana" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/kibana-auto.svg" width="60" height="60"></a>
+  <a href="https://sentry.io/"><img title="Sentry" alt="Sentry" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
   <strong>Тестовая документация</strong><br>
-  <a href="#"><img title="Test It" alt="Test It" src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="60" height="60"></a>
-  <a href="#"><img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/jira-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="GitBook" alt="GitBook" src="https://raw.githubusercontent.com/Cloud146/Cloud146/7aca09c6d82e9a60d217bb3504a22648635e4d38/Icons/Gitbook.svg" width="60" height="60"></a>
-  <a href="#"><img title="Сonfluence" alt="Сonfluence" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/confluence-auto.svg" width="60" height="60"></a>
+  <a href="https://testit.software/"><img title="Test It" alt="Test It" src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="60" height="60"></a>
+  <a href="https://www.atlassian.com/software/jira"><img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/jira-auto.svg" width="60" height="60"></a>
+  <a href="https://www.gitbook.com/"><img title="GitBook" alt="GitBook" src="https://raw.githubusercontent.com/Cloud146/Cloud146/7aca09c6d82e9a60d217bb3504a22648635e4d38/Icons/Gitbook.svg" width="60" height="60"></a>
+  <a href="https://www.atlassian.com/ru/software/confluence"><img title="Сonfluence" alt="Сonfluence" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/confluence-auto.svg" width="60" height="60"></a>
 </p>
 
 ---
