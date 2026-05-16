@@ -118,12 +118,11 @@
 ## 📫 Как со мной связаться
 
 <p align="left">
-<a href="[ССЫЛКА_НА_ВАШ_LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[ИМЯ]" height="30" width="40" /></a>
-<a href="https://t.me/[ВАШ_НИК_В_ТЕЛЕГРАМ]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="[НИК]" height="30" width="40" /></a>
-<a href="mailto:[ВАШ_EMAIL]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="[EMAIL]" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/alexander-seburev/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/linkedin.svg" alt="[LinkedIn]" height="30" width="40" /></a>
+<a href="https://t.me/[Cloud169]" target="blank"><img align="center" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/telegram.svg" alt="[Telegram]" height="30" width="40" /></a>
+<a href="mailto:[cloud2886@gmail.com]" target="blank"><img align="center" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/gmail-auto.svg" alt="[Gmail]" height="30" width="40" /></a>
 </p>
 
----
 ## 📊 Моя статистика на GitHub
 
 <table>
@@ -142,7 +141,9 @@
 </table>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cloud146&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud146&layout=compact&langs_count=8&theme=dracula"/>
-  <img src="https://github.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cloud146/Cloud146/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Cloud146/Cloud146/blob/output/github-snake.svg" />
+    <img width="940" alt="github-snake" src="https://github.com/Cloud146/Cloud146/blob/output/github-snake.svg" />
+  </picture>
 </p>
