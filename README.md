@@ -126,6 +126,21 @@
 ---
 ## 📊 Моя статистика на GitHub
 
+<table>
+  <tr>
+    <td>
+      <a href="https://nice-readme.vercel.app/github-stats">
+        <img src="https://helio-github-stats.vercel.app/api?username=Cloud146&custom_title=GitHub+Stats&theme=dark&title_color=f8fafc&text_color=f1f2f3&icon_color=f2f2f2&ring_color=ffffff&border_color=fdfcfc&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://nice-readme.vercel.app/top-langs">
+        <img src="https://helio-github-stats.vercel.app/api/top-langs?username=Cloud146&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&langs_count=4" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cloud146&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud146&layout=compact&langs_count=8&theme=dracula"/>
