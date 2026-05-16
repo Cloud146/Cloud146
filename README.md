@@ -16,7 +16,7 @@
 
 <p align="left">
   <strong>Языки:</strong><br>
-  <a href="#"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
+  <a href="https://www.java.com/"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
   <a href="#"><img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/idea-auto.svg" width="60" height="60"></a>
   <a href="#"><img title="Maven" alt="Maven" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/maven-auto.svg" width="60" height="60"></a>
   <a href="#"><img title="Git" alt="Git" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/git-auto.svg" width="60" height="60"></a>
@@ -59,7 +59,7 @@
   <a href="#"><img title="Chrome DevTools" alt="Chrome DevTools" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/chromedevtools.svg" width="60" height="60"></a>
   <a href="#"><img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="60" height="60"></a>
   <a href="#"><img title="Swagger" alt="Swagger" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/swagger-auto.svg" width="60" height="60"></a>
-  <a href="#"><img title="Charles Proxy" alt="Charles Proxy" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" width="60" height="60"></a>
+  <a href="#"><img title="Charles Proxy" alt="Charles Proxy" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/Charles%20Proxy.png" width="60" height="60"></a>
   <a href="#"><img title="SOAP" alt="SOAP" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" width="60" height="60"></a>
 </p>
 
