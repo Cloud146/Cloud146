@@ -41,7 +41,7 @@
 </p>
 
 <p align="left">
-  <strong>CI/CD, DevOps и Инструменты:</strong><br>
+  <strong>CI/CD инструменты:</strong><br>
   <a href="https://www.docker.com/"><img title="Docker" alt="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Docker.svg" width="60" height="60"></a>
   <a href="https://github.com/features/actions"><img title="GitHub Actions" alt="GitHub Actions" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GithubActions-Dark.svg" width="60" height="60"></a>
   <a href="https://docs.gitlab.com/ci/"><img title="GitLab CI" alt="GitLab CI" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/GitLab-Dark.svg" width="60" height="60"></a>
