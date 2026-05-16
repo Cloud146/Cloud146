@@ -35,7 +35,7 @@
 </p>
 
 <p align="left">
-  <strong>Автотестирование мобильных приложений</strong><br>
+  <strong>Автотестирование мобильных приложений:</strong><br>
   <a href="http://appium.io/"><img title="Appium" alt="Appium" src="https://raw.githubusercontent.com/Cloud146/Cloud146/a5207eaeb8577db5f605215ae4cd1ebdcf06f721/Icons/Appium.svg" width="60" height="60"></a>
   <a href="https://developer.android.com/studio"><img title="Android Studio" alt="Android Studio" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/androidstudio-auto.svg" width="60" height="60"></a>
 </p>
