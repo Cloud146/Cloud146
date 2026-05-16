@@ -15,7 +15,7 @@
 ## 🛠️ Мой стек технологий
 
 <p align="left">
-  <strong>Языки:</strong><br>
+  <strong>Основной стек программирования:</strong><br>
   <a href="https://www.java.com/"><img title="Java" alt="Java" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" width="60" height="60"></a>
   <a href="https://www.jetbrains.com/idea/"><img title="IntelliJ IDEA" alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/idea-auto.svg" width="60" height="60"></a>
   <a href="https://maven.apache.org/"><img title="Maven" alt="Maven" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/maven-auto.svg" width="60" height="60"></a>
