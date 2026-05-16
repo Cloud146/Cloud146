@@ -87,13 +87,13 @@
   <h3>CI/CD Демо-стенд для Spring Boot приложения</h3>
   <p>Проект, демонстрирующий полный цикл CI/CD для веб-приложения. Настроен пайплайн для сборки, тестирования и развертывания с использованием различных инструментов.</p>
   <p><b>Ключевые навыки:</b> GitHub Actions, GitLab CI, Jenkins, Docker, Spring Boot.</p>
-  <a href="[https://github.com/Cloud146/SDET_training]">Посмотреть код</a>
+  <a href="https://github.com/Cloud146/SDET_training">Посмотреть код</a>
 </td>
 <td width="50%">
   <h3>Тестирование API с мокированием зависимостей</h3>
   <p>Исследование техник контрактного и компонентного тестирования. Проект показывает, как изолировать сервис для тестирования API, используя WireMock для мокирования внешних HTTP-сервисов.</p>
   <p><b>Ключевые навыки:</b> Rest-Assured, WireMock, JUnit5, Java.</p>
-  <a href="[https://github.com/Cloud146/API_WireMock_Project]">Посмотреть код</a>
+  <a href="https://github.com/Cloud146/API_WireMock_Project">Посмотреть код</a>
 </td>
 </tr>
 <tr>
@@ -101,13 +101,13 @@
   <h3>E2E Тестирование с использованием BDD (Playwright + Cucumber)</h3>
   <p>Решение тестового задания, демонстрирующее подход Behavior-Driven Development. Тесты написаны на Gherkin, а шаги реализованы с использованием Playwright, что обеспечивает читаемость и надежность E2E-сценариев.</p>
   <p><b>Ключевые навыки:</b> Playwright, Cucumber.js, TypeScript/JS, BDD.</p>
-  <a href="[https://github.com/Cloud146/TestTask_R-style_Softlab]">Посмотреть код</a>
+  <a href="https://github.com/Cloud146/TestTask_R-style_Softlab">Посмотреть код</a>
 </td>
 <td width="50%">
   <h3>(В разработке) Модульный фреймворк для автотестирования</h3>
   <p>Моя "песочница" для обкатки архитектурных идей. Цель — создать гибкий и расширяемый фреймворк для UI и API тестов, готовый к интеграции в любой проект. Включает наработки по Allure-отчетности, управлению конфигурациями и параллелизации.</p>
   <p><b>Ключевые навыки:</b> Архитектура ПО, Паттерны (Page Object, Singleton), Generics, CI/CD Integration.</p>
-  <a href="[https://github.com/Cloud146/myTestFramework_Core]">Посмотреть наработки</a>
+  <a href="https://github.com/Cloud146/myTestFramework_Core">Посмотреть наработки</a>
   <!-- <p><i>(Репозиторий будет открыт после завершения основного модуля)</i></p> -->
 </td>
 </tr>
