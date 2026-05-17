@@ -86,14 +86,14 @@
 <td width="50%">
   <h3>SDET Training Project — E2E Test Automation Stand</h3>
   <p>Проект, демонстрирующий полный цикл CI/CD для тестового веб-приложения. Настроен пайплайн для сборки, тестирования и развертывания с использованием различных инструментов.</p>
-  <p><b>Ключевые навыки:</b>Docker, GitHub Actions, GitLab CI, Jenkins.</p>
+  <p><b>Ключевые навыки:</b> Docker, GitHub Actions, GitLab CI, Jenkins.</p>
   <a href="https://github.com/Cloud146/SDET_training">Перейти в репозиторий проекта</a>
 </td>
 <td width="50%">
   <h3>Тестирование API с мокированием зависимостей</h3>
   <p>Исследование техник контрактного и компонентного тестирования. Проект показывает, как изолировать сервис для тестирования API, используя WireMock для мокирования внешних HTTP-сервисов.</p>
   <p><b>Ключевые навыки:</b> Rest-Assured, WireMock, JUnit5, Java.</p>
-  <a href="https://github.com/Cloud146/API_WireMock_Project">Посмотреть код</a>
+  <a href="https://github.com/Cloud146/API_WireMock_Project">Перейти в репозиторий проекта</a>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@
   <h3>E2E Тестирование с использованием BDD (Playwright + Cucumber)</h3>
   <p>Решение тестового задания, демонстрирующее подход Behavior-Driven Development. Тесты написаны на Gherkin, а шаги реализованы с использованием Playwright, что обеспечивает читаемость и надежность E2E-сценариев.</p>
   <p><b>Ключевые навыки:</b> Playwright, Cucumber.js, TypeScript/JS, BDD.</p>
-  <a href="https://github.com/Cloud146/TestTask_R-style_Softlab">Посмотреть код</a>
+  <a href="https://github.com/Cloud146/TestTask_R-style_Softlab">Перейти в репозиторий проекта</a>
 </td>
 <td width="50%">
   <h3>(В разработке) Модульный фреймворк для автотестирования</h3>
