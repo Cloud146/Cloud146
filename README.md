@@ -84,10 +84,10 @@
 <table>
 <tr>
 <td width="50%">
-  <h3>CI/CD Демо-стенд для Spring Boot приложения</h3>
-  <p>Проект, демонстрирующий полный цикл CI/CD для веб-приложения. Настроен пайплайн для сборки, тестирования и развертывания с использованием различных инструментов.</p>
-  <p><b>Ключевые навыки:</b> GitHub Actions, GitLab CI, Jenkins, Docker, Spring Boot.</p>
-  <a href="https://github.com/Cloud146/SDET_training">Посмотреть код</a>
+  <h3>SDET Training Project — E2E Test Automation Stand</h3>
+  <p>Проект, демонстрирующий полный цикл CI/CD для тестового веб-приложения. Настроен пайплайн для сборки, тестирования и развертывания с использованием различных инструментов.</p>
+  <p><b>Ключевые навыки:</b>Docker, GitHub Actions, GitLab CI, Jenkins.</p>
+  <a href="https://github.com/Cloud146/SDET_training">Перейти в репозиторий проекта</a>
 </td>
 <td width="50%">
   <h3>Тестирование API с мокированием зависимостей</h3>
