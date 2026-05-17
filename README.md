@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Мой стек технологий
+## Мой стек технологий
 
 <p align="left">
   <strong>Основной стек программирования:</strong><br>
@@ -79,7 +79,7 @@
 
 ---
 
-## 🚀 Мои проекты-визитки
+## Мои проекты-визитки
 
 <table>
 <tr>
@@ -115,7 +115,7 @@
 
 ---
 
-## 📫 Как со мной связаться
+## Как со мной связаться
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alexander-seburev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/linkedin.svg" alt="[LinkedIn]" height="30" width="40" /></a>
@@ -123,7 +123,7 @@
 <a href="mailto:cloud2886@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/gmail-auto.svg" alt="[Gmail]" height="30" width="40" /></a>
 </p>
 
-## 📊 Моя статистика на GitHub
+## Моя статистика на GitHub
 
 <table>
   <tr>
