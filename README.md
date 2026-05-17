@@ -98,9 +98,9 @@
 </tr>
 <tr>
 <td width="50%">
-  <h3>E2E Тестирование с использованием BDD (Playwright + Cucumber)</h3>
-  <p>Решение тестового задания, демонстрирующее подход Behavior-Driven Development. Тесты написаны на Gherkin, а шаги реализованы с использованием Playwright, что обеспечивает читаемость и надежность E2E-сценариев.</p>
-  <p><b>Ключевые навыки:</b> Playwright, Cucumber.js, TypeScript/JS, BDD.</p>
+  <h3>E2E с использованием BDD (Playwright + Cucumber)</h3>
+  <p>Решение тестового задания, демонстрирующее подход Behavior-Driven Development. Тесты написаны на Gherkin, а шаги реализованы с использованием Playwright.</p>
+  <p><b>Ключевые навыки:</b> Playwright, Cucumber, TestNG, Allure.</p>
   <a href="https://github.com/Cloud146/TestTask_R-style_Softlab">Перейти в репозиторий проекта</a>
 </td>
 <td width="50%">
