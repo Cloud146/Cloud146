@@ -86,13 +86,13 @@
 <td width="50%">
   <h3>SDET Training Project — E2E Test Automation Stand</h3>
   <p>Проект, демонстрирующий полный цикл CI/CD для тестового веб-приложения. Настроен пайплайн для сборки, тестирования и развертывания с использованием различных инструментов.</p>
-  <p><b>Ключевые навыки:</b> Docker, GitHub Actions, GitLab CI, Jenkins.</p>
+  <p><b>Ключевые навыки:</b> Docker, GitHub Actions, GitLab CI, Jenkins, Allure.</p>
   <a href="https://github.com/Cloud146/SDET_training">Перейти в репозиторий проекта</a>
 </td>
 <td width="50%">
-  <h3>Тестирование API с мокированием зависимостей</h3>
-  <p>Исследование техник контрактного и компонентного тестирования. Проект показывает, как изолировать сервис для тестирования API, используя WireMock для мокирования внешних HTTP-сервисов.</p>
-  <p><b>Ключевые навыки:</b> Rest-Assured, WireMock, JUnit5, Java.</p>
+  <h3>API Mock Project</h3>
+  <p>Проект представляет собой полноценный тестовый фреймворк для гипотетического сервиса "Book Store API". Серверная часть эмулируется с помощью WireMock.</p>
+  <p><b>Ключевые навыки:</b> Rest-Assured, WireMock, TestNG, AssertJ, Allure.</p>
   <a href="https://github.com/Cloud146/API_WireMock_Project">Перейти в репозиторий проекта</a>
 </td>
 </tr>
