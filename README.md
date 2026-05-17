@@ -83,13 +83,13 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   <h3>SDET Training Project — E2E Test Automation Stand</h3>
   <p>Проект, демонстрирующий полный цикл CI/CD для тестового веб-приложения. Настроен пайплайн для сборки, тестирования и развертывания с использованием различных инструментов.</p>
   <p><b>Ключевые навыки:</b> Docker, GitHub Actions, GitLab CI, Jenkins, Allure.</p>
   <a href="https://github.com/Cloud146/SDET_training">Перейти в репозиторий проекта</a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
   <h3>API Mock Project</h3>
   <p>Проект представляет собой полноценный тестовый фреймворк для гипотетического сервиса "Book Store API". Серверная часть эмулируется с помощью WireMock.</p>
   <p><b>Ключевые навыки:</b> Rest-Assured, WireMock, TestNG, AssertJ, Allure.</p>
@@ -97,13 +97,13 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
   <h3>E2E с использованием BDD (Playwright + Cucumber)</h3>
   <p>Решение тестового задания, демонстрирующее подход Behavior-Driven Development. Тесты написаны на Gherkin, а шаги реализованы с использованием Playwright.</p>
   <p><b>Ключевые навыки:</b> Playwright, Cucumber, TestNG, Allure.</p>
   <a href="https://github.com/Cloud146/TestTask_R-style_Softlab">Перейти в репозиторий проекта</a>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
   <h3>(В разработке) Модульный фреймворк для автотестирования</h3>
   <p>Моя "песочница" для обкатки архитектурных идей. Цель — создать гибкий и расширяемый фреймворк для UI и API тестов, готовый к интеграции в любой проект. Включает наработки по Allure-отчетности, управлению конфигурациями и параллелизации.</p>
   <p><b>Ключевые навыки:</b> Архитектура ПО, Паттерны (Page Object, Singleton), Generics, CI/CD Integration.</p>
