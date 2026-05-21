@@ -51,6 +51,7 @@
 <p align="left">
   <strong>Работа с базами данных:</strong><br>
   <a href="https://dbeaver.io/"><img title="DBeaver" alt="DBeaver" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/dbeaver-auto.svg" width="60" height="60"></a>
+  <a href="https://www.mysql.com/"><img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/MySQL-Dark.svg" width="60" height="60"></a>
   <a href="https://www.postgresql.org/"><img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postgresql-auto.svg" width="60" height="60"></a>
 </p>
 
