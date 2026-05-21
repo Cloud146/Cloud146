@@ -67,6 +67,7 @@
   <strong>Логи и мониторинги:</strong><br>
   <a href="https://www.elastic.co/kibana"><img title="Kibana" alt="Kibana" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/kibana-auto.svg" width="60" height="60"></a>
   <a href="https://sentry.io/"><img title="Sentry" alt="Sentry" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width="60" height="60"></a>
+  <a href="https://kafka.apache.org/"><img title="Apache Kafka" alt="Apache Kafka" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kafka.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
