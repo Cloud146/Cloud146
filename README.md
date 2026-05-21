@@ -73,7 +73,7 @@
 </p>
 
 <p align="left">
-  <strong>Тестовая документация</strong><br>
+  <strong>Тестовая документация:</strong><br>
   <a href="https://testit.software/"><img title="Test It" alt="Test It" src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="60" height="60"></a>
   <a href="https://www.atlassian.com/software/jira"><img title="Jira" alt="Jira" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/jira-auto.svg" width="60" height="60"></a>
   <a href="https://www.gitbook.com/"><img title="GitBook" alt="GitBook" src="https://raw.githubusercontent.com/Cloud146/Cloud146/7aca09c6d82e9a60d217bb3504a22648635e4d38/Icons/Gitbook.svg" width="60" height="60"></a>
