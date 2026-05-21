@@ -31,7 +31,7 @@
   <a href="https://junit.org/"><img title="JUnit5" alt="JUnit5" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/junit-auto.svg" width="60" height="60"></a>
   <a href="https://cucumber.io/docs/"><img title="Cucumber" alt="Cucumber" src="https://raw.githubusercontent.com/Cloud146/Cloud146/a5207eaeb8577db5f605215ae4cd1ebdcf06f721/Icons/Cucumber.svg" width="60" height="60"></a>
   <a href="https://allurereport.org/"><img title="Allure" alt="Allure" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/Allure.png" width="60" height="60"></a>
-  <a href="[#](https://wiremock.org/)"><img title="WireMock" alt="WireMock" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/WireMock.png" width="60" height="60"></a>
+  <a href="https://wiremock.org/"><img title="WireMock" alt="WireMock" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/WireMock.png" width="60" height="60"></a>
 </p>
 
 <p align="left">
@@ -109,7 +109,6 @@
   <h3>(В разработке) Модульный фреймворк для автотестирования</h3>
   <p>Мой эксперимент по созданию фреймворка автотестирования - полностью модульный, построен на принципе полиморфизма через интерфейсы чтобы можно было переключать основной движок - Selenium/Playwight одной строчкой. Поддерживает запуск тестов как через Java, так и через BDD.</p>
   <a href="https://github.com/Cloud146/myTestFramework_Core">Посмотреть наработки</a>
-  <!-- <p><i>(Репозиторий будет открыт после завершения основного модуля)</i></p> -->
 </td>
 </tr>
 </table>
