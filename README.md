@@ -61,7 +61,7 @@
   <a href="https://www.postman.com/"><img title="Postman" alt="Postman" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="60" height="60"></a>
   <a href="https://swagger.io/"><img title="Swagger" alt="Swagger" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/swagger-auto.svg" width="60" height="60"></a>
   <a href="https://www.charlesproxy.com/"><img title="Charles Proxy" alt="Charles Proxy" src="https://raw.githubusercontent.com/Cloud146/Cloud146/refs/heads/main/Icons/Charles%20Proxy.png" width="60" height="60"></a>
-  <a href="#"><img title="SOAP" alt="SOAP" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" width="60" height="60"></a>
+  <a href="#"><img title="SOAP UI" alt="SOAP UI" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" width="60" height="60"></a>
 </p>
 
 <p align="left">
@@ -69,6 +69,7 @@
   <a href="https://www.elastic.co/kibana"><img title="Kibana" alt="Kibana" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/kibana-auto.svg" width="60" height="60"></a>
   <a href="https://sentry.io/"><img title="Sentry" alt="Sentry" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" width="60" height="60"></a>
   <a href="https://kafka.apache.org/"><img title="Apache Kafka" alt="Apache Kafka" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kafka.svg" width="60" height="60"></a>
+  <a href="https://grafana.com/"><img title="Grafana" alt="Grafana" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Grafana-Dark.svg" width="60" height="60"></a>
 </p>
 
 <p align="left">
