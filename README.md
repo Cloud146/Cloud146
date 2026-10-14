@@ -87,6 +87,19 @@
 ## Мои проекты-визитки
 
 <table>
+  <tr>
+<td width="50%" valign="top">
+  <h3>Smart Committer</h3>
+  <p>A lightweight, zero-dependency CLI tool that leverages local LLMs to automatically analyze code changes and generate clear, structured Git commit messages adhering to the Conventional Commits format.</p>
+  <a href="https://github.com/Cloud146/smart-committer">Перейти в репозиторий проекта</a>
+</td>
+<td width="50%" valign="top">
+  <h3>QA Cheat Sheets</h3>
+  <p>Интерактивная шпаргалка и визуальный тренажер для тестировщиков. Проект демонстрирует правильное и некорректное поведение веб-форм (Текстовое поле, Авторизация) при различных сценариях ввода, включая граничные значения, спецсимволы и популярные уязвимости (XSS, SQLi, HTML-инъекции).</p>
+  <a href="https://github.com/Cloud146/qa-cheat-sheets">Перейти в репозиторий проекта</a>
+</td>
+</tr>
+<tr>
 <tr>
 <td width="50%" valign="top">
   <h3>SDET Training Project — E2E Test Automation Stand</h3>
@@ -99,19 +112,6 @@
   <p>Проект представляет собой полноценный тестовый фреймворк для гипотетического сервиса "Book Store API". Серверная часть эмулируется с помощью WireMock.</p>
   <p><b>Ключевые навыки:</b> Rest-Assured, WireMock, TestNG, AssertJ, Allure.</p>
   <a href="https://github.com/Cloud146/API_WireMock_Project">Перейти в репозиторий проекта</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>E2E с использованием BDD (Playwright + Cucumber)</h3>
-  <p>Решение тестового задания, демонстрирующее подход Behavior-Driven Development. Тесты написаны на Gherkin, а шаги реализованы с использованием Playwright.</p>
-  <p><b>Ключевые навыки:</b> Playwright, Cucumber, TestNG, Allure.</p>
-  <a href="https://github.com/Cloud146/TestTask_R-style_Softlab">Перейти в репозиторий проекта</a>
-</td>
-<td width="50%" valign="top">
-  <h3>(В разработке) Модульный фреймворк для автотестирования</h3>
-  <p>Мой эксперимент по созданию фреймворка автотестирования - полностью модульный, построен на принципе полиморфизма через интерфейсы чтобы можно было переключать основной движок - Selenium/Playwight одной строчкой. Поддерживает запуск тестов как через Java, так и через BDD.</p>
-  <a href="https://github.com/Cloud146/myTestFramework_Core">Посмотреть наработки</a>
 </td>
 </tr>
 </table>
